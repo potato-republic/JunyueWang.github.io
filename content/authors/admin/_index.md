@@ -5,7 +5,8 @@ avatar_filename: null
 bio: ""
 interests:
   - Statistical Modeling
-  - Operational Optimization and Machine Learning
+  - Operational Optimization
+  - Machine Learning
 social:
   - display:
       header: false
@@ -35,8 +36,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-# Biography
-
 Master student at Cornell University. Research interested in Healthcare system operations / Psychological Health Inference with Machine Learning / Natural Language Processing in application. Proficiency in MySQL, Python, R, Apache Spark etc. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "Resume-Junyue.pdf" "newtab" >}}resume{{< /staticref >}}.

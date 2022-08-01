@@ -10,17 +10,17 @@ interests:
 social:
   - display:
       header: false
+    icon_pack: fab
+    icon: envolope
+    link: /#contact
+  - display:
+      header: false
     link: www.github.com/Junyue-Wang
     icon_pack: fab
     icon: github
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/junyue-wang/
-  - display:
-      header: false
-    icon_pack: fab
-    icon: envolope
-    link: /#contact
 organizations:
   - name: Cornell University
     url: https://www.cornell.edu/
@@ -42,4 +42,4 @@ highlight_name: true
 
 Master student at Cornell University. Research interested in Healthcare system operations / Psychological Health Inference with Machine Learning / Natural Language Processing in application. Proficiency in MySQL, Python, R, Apache Spark etc. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "Resume-Junyue.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "Resume-Junyue.pdf" "newtab" >}}resume{{< /staticref >}}.

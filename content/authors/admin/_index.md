@@ -9,7 +9,7 @@ interests:
 social:
   - display:
       header: false
-    icon_pack: fab
+    icon_pack: ai
     icon: envolope
     link: /#contact
   - display:

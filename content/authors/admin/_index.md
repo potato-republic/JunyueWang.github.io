@@ -1,7 +1,7 @@
 ---
 title: Junyue Wang
 role: MS in Statistics
-avatar_filename: null
+avatar_filename: img_4810.png
 bio: ""
 interests:
   - Statistical Modeling

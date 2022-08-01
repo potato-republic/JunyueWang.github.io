@@ -23,8 +23,6 @@ social:
 organizations:
   - name: Cornell University
     url: https://www.cornell.edu/
-  - name: University of California, Santa Barbara
-    url: https://www.ucsb.edu/
 education:
   courses:
     - course: MS in Statisitcs

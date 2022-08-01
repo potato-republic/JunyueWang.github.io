@@ -1,7 +1,7 @@
 ---
 title: Junyue Wang
 role: MS in Statistics
-avatar_filename: img_4810.png
+avatar_filename: profile-pic.png
 bio: ""
 interests:
   - Statistical Modeling
@@ -36,6 +36,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Master student at Cornell University. Research interested in Healthcare system operations / Psychological Health Inference with Machine Learning / Natural Language Processing in application. Proficiency in MySQL, Python, R, Apache Spark etc. 
+Master student at Cornell University. Research interested in Healthcare system operations / Psychological Health Inference with Machine Learning / Natural Language Processing in application. 
+
+Proficiency in MySQL, Python, R, Apache Spark etc. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "Resume-Junyue.pdf" "newtab" >}}resume{{< /staticref >}}.

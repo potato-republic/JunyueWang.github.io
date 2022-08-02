@@ -1,0 +1,38 @@
+---
+title: Genome-wide association studies -- identify positions of causal polymorphisms(loci)
+summary: Apply GWAS to discern position of as many causal polymorphisms, with covariate analysis using Principal Component Analysis and Bayesian Inference. 
+
+tags:
+- Statistics 
+date: "2016-04-27T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+  
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+#slides: example
+---
+
+{{< icon name="download" pack="fas" >}} Download {{< staticref "media/6830.pdf" "newtab" >}}Project{{< /staticref >}}.
+
+**Keywords**  COVID-19, Transmission Dynamical model, Bayesian Epidemiological model

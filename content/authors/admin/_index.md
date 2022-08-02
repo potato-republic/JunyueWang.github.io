@@ -31,9 +31,10 @@ education:
     - course: BSc in Statistics & Applied Probability
       institution: University of California, Santa Barbara
       year: 2020
+      
 email: starjunyue@gmail.com
 superuser: true
-highlight_name: true
+highlight_name: false
 ---
 Master student at Cornell University. Proficiency in MySQL, Python, R, Apache Spark etc. Research interested in Healthcare system operations / Psychological Health Inference with Machine Learning / Natural Language Processing in application. 
 

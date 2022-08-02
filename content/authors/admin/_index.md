@@ -10,17 +10,16 @@ interests:
 social:
   - display:
       header: false
-    icon_pack: ai
-    icon: envolope
-    link: /#contact
-  - display:
-      header: false
-    link: www.github.com/Junyue-Wang
-    icon_pack: fab
-    icon: github
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/junyue-wang/
+    - icon: envolope
+      icon_pack: fas
+      link: /#contact
+    - icon: github
+      icon_pack: fab
+  link: www.github.com/Junyue-Wang
+    - icon: linkedin
+      icon_pack: fab
+      link: https://www.linkedin.com/in/junyue-wang/
+
 organizations:
   - name: Cornell University
     url: https://www.cornell.edu/
@@ -40,4 +39,4 @@ Master student at Cornell University. Proficiency in MySQL, Python, R, Apache Sp
 
 I believe in power of data integrity and ETL automation process. As for now I have experience with data analytics and machine learning, I am looking to incorporate all these techniques in work to come up with integrated data solution. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "Resume-Junyue.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "/Resume-Junyue.pdf" "newtab" >}}resume{{< /staticref >}}.

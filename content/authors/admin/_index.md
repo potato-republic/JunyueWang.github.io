@@ -36,8 +36,8 @@ email: starjunyue@gmail.com
 superuser: true
 highlight_name: true
 ---
-Master student at Cornell University. Research interested in Healthcare system operations / Psychological Health Inference with Machine Learning / Natural Language Processing in application. 
+Master student at Cornell University. Proficiency in MySQL, Python, R, Apache Spark etc. Research interested in Healthcare system operations / Psychological Health Inference with Machine Learning / Natural Language Processing in application. 
 
-Proficiency in MySQL, Python, R, Apache Spark etc. 
+I believe in power of data integrity and ETL automation process. As for now I have experience with data analytics and machine learning, I am looking to incorporate all these techniques in work to come up with integrated data solution. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "Resume-Junyue.pdf" "newtab" >}}resume{{< /staticref >}}.

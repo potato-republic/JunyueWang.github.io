@@ -33,7 +33,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 
-  icon: AWS
+  icon: aws
   icon_pack: fas
   name: AWS Cloud Computing 
 - description: 

@@ -40,4 +40,4 @@ Master student at Cornell University. Research interested in Healthcare system o
 
 Proficiency in MySQL, Python, R, Apache Spark etc. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "resume-Junyue.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "Resume-Junyue.pdf" "newtab" >}}resume{{< /staticref >}}.

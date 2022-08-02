@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Junyue Wang # Website name
-baseURL: 'https://Junyue-Wang.github.io/' # Website URL
+baseURL: 'https://JunyueWang.github.io/' # Website URL
 
 ############################
 ## LANGUAGE

@@ -33,13 +33,13 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 
-  icon: comments
+  icon: AWS
   icon_pack: fas
-  name: Communication & Team work 
+  name: AWS Cloud Computing 
 - description: 
   icon: bezier-curve
   icon_pack: fas
-  name: Algorithm
+  name: Apache Spark
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

@@ -32,7 +32,7 @@ education:
     - course: BSc in Statistics & Applied Probability
       institution: University of California, Santa Barbara
       year: 2020
-email: ""
+email: starjunyue@gmail.com
 superuser: true
 highlight_name: true
 ---

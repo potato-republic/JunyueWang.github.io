@@ -45,7 +45,6 @@ item:
     date_end: '2020-07'
     description: |2-
         
-        
         * Observe government influence on health and predicted life expectancy as a function of government involvement.
         * Research project on how population density in different cities affects the spread of flu in nationwide.
         * Participate and organize introduction classes of data processing with Pandas/Scikit-Learn ect. 
@@ -59,7 +58,7 @@ item:
     description: |2-
     
         
-        * Introduce UC wide environment protection bases, exhibit research findings of Beach Grooming (Dr. Jennifer Dugan) and Soil Core (Ana Ejarque & Alex Simms).
+        * Introduce UC wide environment protection bases, exhibit research findings of Beach Grooming (Dr. Jennifer Dugan) and Soil Core (Ana Ejarque &     Alex Simms).
         * Educate the public about Snowy Plover, ensure the reserved area free from trespassers and off-leash dogs.
         * Assist with the propagation of native plants via seed collection, planting of native species, vegetation monitoring of  restoration sites and removal of invasive plant species.
 
